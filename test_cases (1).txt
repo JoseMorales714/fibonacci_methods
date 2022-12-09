@@ -1,0 +1,59 @@
+FIB RANGE FOR ALL TESTS [0,9]
+
+N = 5
+C = 10
+CHR -> 20.00%
+found counter = 6
+call counter = 30
+
+N = 10
+C = 5
+CHR -> 25.58%
+found counter = 11
+call counter = 43
+
+N = 15
+C = 15
+CHR -> 29.17%
+found counter = 14
+call counter = 48
+
+N = 5
+C = 5
+CHR -> CHR: 21.880%
+found counter = 7
+call counter = 32
+
+N = 10
+C = 10
+CHR -> 23.68% 
+found counter = 9
+call counter = 38
+
+
+N = 10
+C = 20
+CHR -> 23.68% 
+found counter = 9 
+call counter = 38
+
+
+N = 15
+C = 30
+CHR -> 29.17%
+found counter = 14
+call counter = 48
+
+
+N = 5
+C = 9
+CHR -> 20.00%
+found counter = 12
+call counter = 45
+
+
+N = 15
+C = 8
+CHR -> 29.17%
+found counter = 14
+call counter = 48
